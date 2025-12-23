@@ -1,0 +1,6 @@
+jupyter~=1.1.1
+jupyterlab_pygments~=0.3.0
+pip~=25.2
+attrs~=25.4.0
+numpy~=2.3.5
+matplotlib~=3.10.8
